@@ -1,0 +1,8 @@
+C:\Users\Jordan\Development\JumperMan\JumperMan\JumperMan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\Development\JumperMan\JumperMan\JumperMan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jordan\Development\JumperMan\JumperMan\JumperMan\bin\x86\Debug\JumperMan.exe
+C:\Users\Jordan\Development\JumperMan\JumperMan\JumperMan\bin\x86\Debug\JumperMan.pdb
+C:\Users\Jordan\Development\JumperMan\JumperMan\JumperMan\obj\x86\Debug\JumperMan.exe
+C:\Users\Jordan\Development\JumperMan\JumperMan\JumperMan\obj\x86\Debug\JumperMan.pdb
+C:\Users\Jordan\Development\JumperMan\JumperMan\JumperMan\bin\x86\Debug\Content\player.xnb
+C:\Users\Jordan\Development\JumperMan\JumperMan\JumperMan\bin\x86\Debug\Content\background.xnb

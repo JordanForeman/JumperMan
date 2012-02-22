@@ -1,0 +1,13 @@
+Player Sprite Details:
+	Player.png - 	Width: 60px
+					Height: 32px
+		Player Standing -> 	0-28px w
+							0-32px h
+		Player Jumping ->	29-60px w
+							0-32px h
+		Player Walk 1 ->	61-93px w
+							0-32px h
+		Player Walk 2 ->	94-118px w
+							0-32px h
+		Player Walk 3 ->	119-147px w
+							0-32px h
